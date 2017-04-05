@@ -1,0 +1,6 @@
+framework module Pods_UIBookingTypeIconView {
+  umbrella header "Pods-UIBookingTypeIconView-umbrella.h"
+
+  export *
+  module * { export * }
+}
